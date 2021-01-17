@@ -1,9 +1,5 @@
 """
 This is simple login test program. First try.
-Plan:
-1. Create a file if it does not exist.
-2. Open file and store data of user login and password.
-3. Try to log in with that data from txt file.
 """
 
 
